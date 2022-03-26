@@ -1,6 +1,6 @@
-### Basics of Data Structures and Algorithms in JavaScript
+# Basics of Data Structures and Algorithms in JavaScript
 
 ## Searching Algorithms
-*Linear Search*
-*Binary Search*
-*Recusrive Binary Search*
+Linear Search
+Binary Search
+Recusrive Binary Search
